@@ -15,6 +15,7 @@ dian=[]
 XIANG="r"
 yan=0
 c_XIANG=""
+#C_XIANG=CHANGE XIANG
 score_score=0
 keep_going=True
 pygame.display.set_caption("贪吃蛇V0.01")
