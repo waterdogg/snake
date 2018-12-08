@@ -38,7 +38,7 @@ class score:
 			self.font=pygame.font.SysFont(None,30)
 			
 			self.image=self.font.render(text,True,self.red)
-def ran():
+def snake_random():
 	global snake
 	global dian
 	a=random.randint(0,19)
